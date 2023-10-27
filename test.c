@@ -10,6 +10,8 @@
  *
  * Adapted for COP 4600 by Dr. John Aedo
  */
+
+/*New insert*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <errno.h>
